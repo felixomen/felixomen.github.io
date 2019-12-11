@@ -1,0 +1,92 @@
+
+body{
+    
+    width:1000px;
+    padding:50px;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right: auto;
+        text-align: center;
+    font-family:"arial","helvetica","sans-serif";
+    border: 2px dotted #ffffe6;
+        background-color:#00264d
+}
+
+
+a{
+    font-size:18pt;
+    color:#ffffb3;
+    text-decoration: none;
+    font-family:"macondo swash caps";
+     text-shadow: 2px 2px 5px yellow;
+    
+        
+}
+
+a:hover {
+    color:#ffcc00;
+}
+
+
+div.gallery {
+  margin: 5px;
+  border: 2px solid #ccc;
+float:none;
+
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+    color:white;
+    font-family: "montserrat";
+}
+
+
+h1{
+    font-family:"great vibes";
+    font-size:36pt;
+    color:#ffcc00;
+    border-top: 2px dotted #ffbb33;
+    border-bottom:2px dotted #ffbb33;
+    
+    
+    
+    
+    
+}
+
+h2{
+    
+    font-family:"macondo swash caps";
+    font-size: 32pt;
+    color:white;
+    text-shadow: 2px 2px 5px yellow;
+    
+    
+}
+p{
+    
+    font-size:12pt;
+    line-height:14pt;
+    text-align: center;
+    font-family: "montserrat";
+    color: white
+    
+    
+}
+
+img{border:medium;
+box-shadow:5px 5px 5px rgba(0,0,0,3);}
+
+
